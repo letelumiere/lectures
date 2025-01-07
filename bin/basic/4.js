@@ -41,3 +41,4 @@ pool.query(query, function(error, result, fields){
 //module A, 혹은 module B에서 해당 인스턴스를 기반으로 쿼리를 보냄 
 
 });
+
